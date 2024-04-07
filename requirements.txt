@@ -1,1 +1,0 @@
-# Requirements for the project to run

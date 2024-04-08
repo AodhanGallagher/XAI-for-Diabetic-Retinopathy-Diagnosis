@@ -7,7 +7,7 @@ This project aims to use transfer learning to fine-tune a Deep Learning Model an
 - Evaluate the model's performance
 - Apply LIME and SHAP explanations to the model's predictions for each class of Diabetic Retinopathy
 ***
-The project was primarily carried out on Google Colab due to the increased computational power there needed to efficiently train a deep learning model.
+The project was primarily carried out on Google Colab due to the increased computational power needed to efficiently train a deep learning model.
 
 Google Colab / Drive was also used to house the APTOS dataset, the Preprocessed Dataset and the saved fine-tuned model, which cannot be found on this GitHub repository due to the space constraints with uploading and storing on Github.
 
